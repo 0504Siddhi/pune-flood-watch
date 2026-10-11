@@ -5,7 +5,7 @@ Monsoon flood risk for known waterlogging spots in Pune, with an explainable sco
 Built for **Environmental Hacks** (Bharat Builds Tour by WeMakeDevs, in collaboration with AWS Builder Center), Heat and Water track.
 
 - **Live demo (hosted on Amazon S3):** http://pune-flood-watch-siddhi-2026.s3-website-ap-southeast-2.amazonaws.com/
-- **Demo video:** ADD YOUR YOUTUBE LINK HERE
+- 
 - **Team:** Nexovate
 
 > **Important:** This is a hackathon prototype. Rainfall and Khadakwasla dam discharge are **simulated inputs**, not live data. The sample citizen reports and the past-flooding list are **sample data for demonstration**. Do not use this app to make safety decisions. For emergencies call **112** or **101**, and follow official advisories from the Pune Municipal Corporation (PMC).
