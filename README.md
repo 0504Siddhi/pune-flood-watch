@@ -1,8 +1,6 @@
-# Pune Flood Watch (पुणे पूर वॉच)
+# Pune Flood Watch 
 
 > **Hyperlocal Monsoon Waterlogging Intelligence & Citizen Early Warning Prototype for Pune**  
-> Built for **Environmental Hacks** (Bharat Builds Tour by WeMakeDevs, in collaboration with AWS Builder Center) — *Heat and Water Track*.  
-> **Team:** Nexovate
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-AWS%20S3%20Hosted-232F3E?style=for-the-badge&logo=amazons3&logoColor=white)](http://pune-flood-watch-siddhi-2026.s3-website-ap-southeast-2.amazonaws.com/)
 [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
@@ -20,7 +18,7 @@ The application is deployed and served as a high-performance static web applicat
 `http://pune-flood-watch-siddhi-2026.s3-website-ap-southeast-2.amazonaws.com/`
 
 > [!IMPORTANT]
-> **Hackathon Prototype Disclaimer:**  
+> ** Prototype Disclaimer:**  
 > Rainfall intensity, 24-hour cumulative rainfall, and Khadakwasla dam discharge are **simulated inputs** designed to demonstrate responsive flood risk calculations. Sample citizen reports and past flooding records are **curated demonstration data**. This application is an educational prototype and must not be used as an official life-safety warning system. For active emergencies in Pune, dial **112** (National Emergency), **101** (Fire), or call the **PMC Disaster Management Cell at 020-25501269**, and follow official advisories at [pmc.gov.in](https://pmc.gov.in).
 
 ---
@@ -245,13 +243,6 @@ VITE_ENABLE_LIVE_WEATHER_FEED=false
 4. **Automated Notification Gateway:** Integrate **Amazon SNS** (SMS alerts) and **Amazon SES** (Email advisories) to dispatch alerts when a hotspot triggers High Flood Risk.
 5. **Computer Vision Flood Depth Estimation:** Enable residents to attach photos, using automated AI validation to verify water depth against street furniture or tires before publishing.
 6. **Progressive Web App (PWA):** Enable offline caching of emergency maps and disaster helpline numbers for first responders during power outages.
-
----
-
-## 👥 Contributors & Acknowledgments
-
-- **Team Nexovate** — Designed and developed for the *Environmental Hacks (Heat and Water Track)* organized by WeMakeDevs and AWS Builder Center.
-- **AI Assisted Development:** Built with pair programming and structural architecture assistance from Google Antigravity and Anthropic Claude.
 
 ---
 
